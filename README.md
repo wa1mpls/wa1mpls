@@ -1,8 +1,8 @@
-## 👋 Hello, I'm Thanh Nguyen!
+## 👋 Hello, I'm Thanh!
 
 - 🔧 I’m working on cool coding projects
 - 🌱 Learning new things every day
-- 🌐 Find me on GitHub: [nthnh](https://github.com/nthnh)
+- 🌐 Find me on GitHub: [nthnh](https://github.com/wa1mpls)
 
 ## 📊 Most Used Languages
 
