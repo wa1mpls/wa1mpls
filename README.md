@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Thanh!
+## 👋 Hello, I'm nthnh!
 
 - 🔧 I’m working on cool coding projects
 - 🌱 Learning new things every day
