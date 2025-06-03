@@ -5,7 +5,7 @@
 - 👀 Exploring real-world applications of **Deep Learning** and **Visual Intelligence**
 - 🚀 On the path toward becoming a well-rounded Full-Stack Developer with a focus on **AI-driven systems**
 - 🌐 GitHub: [wa1mpls](https://github.com/wa1mpls)  
-- 💼 LinkedIn: [linkedin.com/in/thanh-ngo(https://www.linkedin.com/in/thanh-n-75761a2ba/)
+- 💼 LinkedIn: [linkedin.com/in/thanh-ngo(https://www.linkedin.com/in/thanh-n-75761a2ba)
 
 ---
 
