@@ -1,8 +1,10 @@
-## 👋 Hello, I'm nthnh!
+## 👋 Hi, I'm Thanh Ngo (nthnh)
 
-- 🔧 I’m working on cool coding projects  
-- 🌱 Learning new things every day  
-- 🌐 Find me on GitHub: [wa1mpls](https://github.com/wa1mpls)
+- 🧑‍💻 Final-year Computer Science student with a strong interest in **Full-Stack Development** and **Computer Vision**
+- 🌱 Actively learning and building projects at the intersection of **frontend, backend**, and **AI**
+- 👀 Exploring real-world applications of **Deep Learning** and **Visual Intelligence**
+- 🚀 On the path toward becoming a well-rounded Full-Stack Developer with a focus on **AI-driven systems**
+- 🌐 GitHub: [wa1mpls](https://github.com/wa1mpls)
 
 ---
 
